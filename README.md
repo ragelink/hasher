@@ -1,6 +1,6 @@
 # Hash Generator
 
-A Python library that generates multiple cryptographic hashes from input strings using various algorithms.
+A Python library abstraction that generates multiple cryptographic hashes from input strings using various algorithms.
 
 ## Supported Hash Algorithms
 
