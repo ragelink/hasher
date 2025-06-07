@@ -1,4 +1,4 @@
-pycryptodome==3.19.0
+pycryptodome==3.19.1
 gostcrypto==1.2.5
 pytest==7.4.3
 pytest-cov==4.1.0 
